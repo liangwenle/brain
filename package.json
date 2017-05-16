@@ -1,0 +1,19 @@
+{
+  "name": "brain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --harmony ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangwenle/brain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangwenle/brain/issues"
+  },
+  "homepage": "https://github.com/liangwenle/brain#readme"
+}
